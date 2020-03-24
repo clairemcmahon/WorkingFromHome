@@ -272,7 +272,7 @@ _Classes_
 
 - $ [MasterClass](https://www.masterclass.com/)
 
--[15 of the Best Online Writing Communities](https://blog.reedsy.com/writing-community/)
+- [15 of the Best Online Writing Communities](https://blog.reedsy.com/writing-community/)
 
 _Reading_
 

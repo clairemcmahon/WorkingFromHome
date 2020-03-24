@@ -388,7 +388,7 @@ _Cocktails_
 
 _Film_
 
-- $ [Netflix]
+- $ [Netflix](http://www.netflix.com)
 
   - Queer Eye 
   
@@ -406,13 +406,13 @@ _Film_
   
   - Derry Girls
   
-- $ [Hulu] 
+- $ [Hulu](http://www.hulu.com) 
 
   -The Mindy Project  
   
   - LoveIsland 
   
-- $ Amazon Video  
+- $ [Amazon Video](https://www.amazon.com/Prime-Video)
 
   -Insecure 
   
@@ -420,24 +420,24 @@ _Film_
   
   -The Marvelous Mrs.Masiel 
 
-- $ [Disney Plus]
+- $ [Disney Plus](https://www.disneyplus.com/)
 
-- [Women directed movies] 
+- [Women directed movies](https://twitter.com/WWfilmchallenge/status/1241959720941830144) 
 
-- [25 Best Feel Good Movies]
+- [25 Best Feel Good Movies](https://collider.com/best-feel-good-movies/)
 
-- [100 Classic Movies by Rotten Tomatoes] 
+- [100 Classic Movies by Rotten Tomatoes](https://www.rottentomatoes.com/top/bestofrt/top_100_classics_movies/)
 
 
 _Audio/Visual_
 
-- [NPR selection of virtual concerts] 
+- [NPR selection of virtual concerts](https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown) 
 
-- [Vienna State Opera Online] 
+- [Vienna State Opera Online](https://www.wiener-staatsoper.at/en/staatsoper/news/detail/news/the-wiener-staatsoper-is-closed-but-continues-to-play-daily-online/)
 
-- [Met Opera]
+- [Met Opera](https://www.metopera.org/)
 
-- [Best TED Talks of all time]
+- [Best TED Talks of all time](https://www.ted.com/playlists/171/the_most_popular_talks_of_all) 
 
 
 

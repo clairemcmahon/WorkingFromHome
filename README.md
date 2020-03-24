@@ -408,17 +408,17 @@ _Film_
   
 - $ [Hulu](http://www.hulu.com) 
 
-  -The Mindy Project  
+  - The Mindy Project  
   
   - LoveIsland 
   
 - $ [Amazon Video](https://www.amazon.com/Prime-Video)
 
-  -Insecure 
+  - Insecure 
   
-  -Homeland 
+  - Homeland 
   
-  -The Marvelous Mrs.Masiel 
+  - The Marvelous Mrs.Masiel 
 
 - $ [Disney Plus](https://www.disneyplus.com/)
 

@@ -1,4 +1,4 @@
-# H1 WorkingFromHome
+#  WorkingFromHome
 For anyone around the world having to adjust to working from home full time and/or sheltering in place
 
 👋COVID-19 has created a disruptive, anxiety-inducing and challenging time for many of us. We wanted to do something small to contribute to folks who are finding themselves homebound for significant lengths of time. Below are some resources to help you pass time, entertain yourself and your kids, learn and cope. 
@@ -7,7 +7,7 @@ We recognize that this is a start and hope the broader community here will contr
 
 Be well.
 
-## H2 **Working from Home Tips:** 
+## **Working from Home Tips:** 
 
 - Trial and error – for a lot of folks this is a new way of working; be kind to yourself while figuring out what works for you. Experiment; and don’t be discouraged if you find yourself having to make adjustments along the way
 
@@ -26,7 +26,7 @@ Be well.
 - Caffeine naps - when you're feeling tired, brew a cup of coffee or tea, drink it and take a nap for ~20mins. By the time you wake up the caffeine will have hit and you’ll wake up feeling more refreshed
  
  
-## H2 **How to Prepare and Cope** 
+## **How to Prepare and Cope** 
 
 - Essential businesses are open so there is no need to stock up for months, we want to make sure there’s enough supplies for everyone!  Be smart, thoughtful, and limit your trips to the grocery store
 
@@ -50,7 +50,7 @@ Be well.
 
 - [Headspace for Health Professionals](https://www.headspace.com/health-covid-19?fbclid=IwAR0x1pBChifw0113eLrLbTgsGkNhJjsX_qLiJhQsr7Xz0D7dqA1L8QXiDCk) 
 
-## H2 **Supporting the Community:**
+## **Supporting the Community:**
 
 _San Francisco:_
  
@@ -90,7 +90,7 @@ _New York City:_
   
   - [More Resources](https://ny.eater.com/2020/3/13/21179235/labor-sick-leave-coronavirus-testing-nyc-restaurants)
 
-## H2 **Tools & Ideas for Social Distancing Together** 
+## **Tools & Ideas for Social Distancing Together** 
   
   - FaceTime 
   
@@ -110,7 +110,7 @@ _New York City:_
   
   - Boardgames / Cards
 
-## H2 **Fitness** 
+## **Fitness** 
 
   - [Nike training app](https://apps.apple.com/us/app/nike-training-club/id301521403)
   
@@ -138,7 +138,7 @@ _New York City:_
   
   - $ [Daily Burn](https://dailyburn.com/landing)
   
-## H2 **Mental Health** 
+## **Mental Health** 
 
 _Resources_ 
 
@@ -166,7 +166,7 @@ _Meditation_
 
 - [Meditations for a Strong Immune System]( https://healthy.kaiserpermanente.org/health-wellness/podcasts/conditions-diseases/immune-system-health)
 
-## H2 **Kids Activities:**
+## **Kids Activities:**
 
 - Write letters - have kids write to their future selves, friends etc on a daily basis. Put them in a "time capsule" and save for a later date.
 
@@ -208,7 +208,7 @@ _Meditation_
 
 - [Puppy Cam](https://explore.org/livecams/currently-live/service-puppy-cam)
 
-## H2 **Kids Learning USA:**
+## **Kids Learning USA:**
 
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) (Pre K-6th grade)
 
@@ -232,7 +232,7 @@ _Special needs:_
 
 - [Special Needs Tutoring](https://www.specialedtutoring.com/)
 
-## H2 **Kids Educational Resources - UK**
+## **Kids Educational Resources - UK**
 
 - [Twinkl](https://www.twinkl.com/) - The trusted home of teacher-created planning and assessment materials and teaching resources
 
@@ -246,7 +246,7 @@ _Special needs:_
 
 - $ [Online school UK](https://elt.oup.com/student/oupeprimary/?cc=gb&selLanguage=en) - Primary & Secondary online school
 
-## H2 **Kids Activities- UK**
+## **Kids Activities- UK**
 
 - [20+ Cute and Easy Origami for Kids](https://www.easypeasyandfun.com/easy-origami-for-kids/) - Origami for kids projects
 
@@ -260,7 +260,7 @@ _Special needs:_
 
 - [Kids And Teens Fitness Classes](https://www.lesmills.com/uk/workouts/kids-classes/) - Fun and fitness for kids and teenagers (Year 2-16)
 
-## H2 **General Learning and Enrichment**
+## **General Learning and Enrichment**
 
 _Classes_
 
@@ -312,7 +312,7 @@ _Podcasts_
 
 - [New York Times - A Podcast PlayList to Distract You](https://www.nytimes.com/2020/03/22/arts/podcasts-coronavirus.html)
 
-## H2 **Food and Drink**
+## **Food and Drink**
 
 >"Food may not be the answer to world peace, but it’s a start." -Anthony Bourdain 
  
@@ -384,7 +384,7 @@ _Cocktails_
 - [Food & Wine Cocktail Guides](https://www.foodandwine.com/cocktails-spirits)
 
  
-## H2 **Entertainment**
+## **Entertainment**
 
 _Film_
 

@@ -234,7 +234,7 @@ _Special needs:_
 
 - [Special Needs Tutoring](https://www.specialedtutoring.com/)
 
-## **Kids Educational Resources - UK** :uk: 
+## **Kids Educational Resources UK** :uk: 
 
 - [Twinkl](https://www.twinkl.com/) - The trusted home of teacher-created planning and assessment materials and teaching resources
 
@@ -248,7 +248,7 @@ _Special needs:_
 
 - $ [Online school UK](https://elt.oup.com/student/oupeprimary/?cc=gb&selLanguage=en) - Primary & Secondary online school
 
-## **Kids Activities- UK** :uk: 
+## **Kids Activities UK** :uk: 
 
 - [20+ Cute and Easy Origami for Kids](https://www.easypeasyandfun.com/easy-origami-for-kids/) - Origami for kids projects
 

@@ -1,13 +1,13 @@
 #  How to work from home :house_with_garden:
-For anyone around the world having to adjust to working from home full time and/or sheltering in place. Take what works for you and leave the rest! 
+👋For anyone around the world having to adjust to working from home full time and/or sheltering in place. Take what works for you and leave the rest! 
 
-👋COVID-19 has created a disruptive, anxiety-inducing and challenging time for many of us. We wanted to do something small to contribute to folks who are finding themselves homebound for significant lengths of time. Below are some resources to help you pass time, entertain yourself and your kids, learn and cope. 
+COVID-19 has created a disruptive, anxiety-inducing and challenging time for many of us. We wanted to do something small to contribute to folks who are finding themselves homebound for significant lengths of time. Below are some resources to help you pass time, entertain yourself and your kids, learn and cope. 
  
 We recognize that this is a start and hope the broader community here will contribute. Submit a PR!  
 
 Thanks to @juliametcalf, @Sweekriti91 and Christina Edwards for their contributions to the below. 
 
-Be well.:bow: 
+Be well :bow: 
 
 ## **Working from Home Tips** :mega: 
 

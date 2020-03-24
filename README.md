@@ -1,13 +1,13 @@
-#  How to work from home :house_with_garden
-For anyone around the world having to adjust to working from home full time and/or sheltering in place. Take what you want and leave what doesn't work for you! 
+#  WorkingFromHome
+For anyone around the world having to adjust to working from home full time and/or sheltering in place
 
 👋COVID-19 has created a disruptive, anxiety-inducing and challenging time for many of us. We wanted to do something small to contribute to folks who are finding themselves homebound for significant lengths of time. Below are some resources to help you pass time, entertain yourself and your kids, learn and cope. 
  
-We recognize that this is a start and hope the broader community here will contribute 
+We recognize that this is a start and hope the broader community here will contribute. Thanks to @JuliaMetcal, @Sweekriti91 and Christina Edwards for their contrabutions to the below. 
 
 Be well.
 
-## **Working from Home Tips** 
+## **Working from Home Tips:** 
 
 - Trial and error – for a lot of folks this is a new way of working; be kind to yourself while figuring out what works for you. Experiment; and don’t be discouraged if you find yourself having to make adjustments along the way
 
@@ -50,7 +50,7 @@ Be well.
 
 - [Headspace for Health Professionals](https://www.headspace.com/health-covid-19?fbclid=IwAR0x1pBChifw0113eLrLbTgsGkNhJjsX_qLiJhQsr7Xz0D7dqA1L8QXiDCk) 
 
-## **Supporting the Community**
+## **Supporting the Community:**
 
 _San Francisco:_
  
@@ -166,7 +166,7 @@ _Meditation_
 
 - [Meditations for a Strong Immune System]( https://healthy.kaiserpermanente.org/health-wellness/podcasts/conditions-diseases/immune-system-health)
 
-## **Kids Activities**
+## **Kids Activities:**
 
 - Write letters - have kids write to their future selves, friends etc on a daily basis. Put them in a "time capsule" and save for a later date.
 
@@ -208,7 +208,7 @@ _Meditation_
 
 - [Puppy Cam](https://explore.org/livecams/currently-live/service-puppy-cam)
 
-## **Kids Learning USA**
+## **Kids Learning USA:**
 
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) (Pre K-6th grade)
 
@@ -246,7 +246,7 @@ _Special needs:_
 
 - $ [Online school UK](https://elt.oup.com/student/oupeprimary/?cc=gb&selLanguage=en) - Primary & Secondary online school
 
-## **Kids Activities - UK**
+## **Kids Activities- UK**
 
 - [20+ Cute and Easy Origami for Kids](https://www.easypeasyandfun.com/easy-origami-for-kids/) - Origami for kids projects
 
@@ -428,6 +428,102 @@ _Film_
 
 - [100 Classic Movies by Rotten Tomatoes](https://www.rottentomatoes.com/top/bestofrt/top_100_classics_movies/)
 
+_Bollywood_
+
+- Dil Chahta Hai - RomCom
+
+- Zindagi Na Milegi Dobara - RomCom
+
+- Chennai Express - RomCom
+
+- 3 Idiots - RomCom
+
+- Om Shaanti Om - RomCom
+
+- Vir Das - Stand Up
+
+- Happy New Year - RomCom/Little Action
+
+- 2 States - RomCom
+
+- Dil Dhadakne Do - RomCom
+
+- Tannu Weds Mannu - RomCom
+
+- Barfi - RomCom
+
+- Dangal - Inspirational 
+
+- Queen - RomCom
+
+- Delhi Belly - Adult Comedy
+
+- Rang De Basanti - Inspirational / Modern take on Indian History (last scene/end of the movie is kinda intense)
+
+- Dilwale - RomCom
+
+- Jodha Akbar - RomCom/ historical period drama
+
+- Lagaan - RomCom/Inspirational/historical drama about British colonizing India + Cricket/
+ 
+ 
+_Amazon Prime_
+
+- Munnabhai MBBS - RomCom/Comedy mostly
+
+- Gully Boy - Adult
+
+- Padmavat - RomCom
+
+- Hindi Medium - RomCom
+
+- Kapoor and Sons - RomCom
+
+- Good Newwz - RomCom
+
+- Dhoom - Action/RomCom/Fast and Furious meets Ocean 11
+
+- Dhoom 2 - Action/RomCom/Fast and Furious meets Ocean 11
+
+- Jab Tak hai Jaan - RomCom
+
+- Rab ne Bana Di Jodi - RomCom
+
+- Don - RomCom/Action
+
+- Befikre - RomCom
+
+- My name is Khan - RomCom
+
+- Kalank - RomCom/Historical Drama
+
+- Student of the Year 2 - RomCom
+
+- Sonu ki Titu ki Sweety - RomCom
+
+- Ae Dil hai Mushkil - RomCom
+
+- Chak De - Inspirational/Indian Women Hockey Team/National Award Winner
+
+- Dilwale Dulhaniya Le Jayenge - RomCom (ALL TIME BOLLYWOOD CLASSIC)
+
+- Jab we Met - RomCom
+
+- Band Baaja Baraat - RomCom (great insight into Indian weddings)
+
+- Rocket Singh - RomCom
+
+- DevDas - RomCom/Adult
+
+- Veer Zaara - RomCom
+
+- Sholay - RomCom/Action (ALL TIME BOLLYWOOD CLASSIC)
+
+- Darr - Thriller / Adult
+
+- Mugha-E-Azam - RomCom/Historical Drama/Classic/Story of the Taj Mahal family
+
+- Andaaz Apna Apna - RomCom
 
 _Audio/Visual_
 

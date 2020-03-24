@@ -168,15 +168,15 @@ _Meditation_
 
 - [Meditations for a Strong Immune System]( https://healthy.kaiserpermanente.org/health-wellness/podcasts/conditions-diseases/immune-system-health)
 
-## **Kids Activities:**
+## **Kids Activities** :memo::art: 
 
-- :memo: Write letters - have kids write to their future selves, friends etc on a daily basis. Put them in a "time capsule" and save for a later date.
+-  Write letters - have kids write to their future selves, friends etc on a daily basis. Put them in a "time capsule" and save for a later date.
 
 - Write encouraging messages or greetings to other families in your neighborhood on the sidewalk with chalk
 
 - Build a fort
 
-- :art: [Coloring sheets](https://www.pinterest.com/search/pins/?q=Printable%20coloring%20pages&rs=srs&b_id=BDDnuPb9RjmrAAAAAAAAAADaXUNafkWjdz-piPvmueXYu_BRbB09yHD8OHEA3_44GQ5usHm-rit8ZkM9AQNxx5r7W-Ue9D1g7w&source_id=2ujoNfzg)
+- [Coloring sheets](https://www.pinterest.com/search/pins/?q=Printable%20coloring%20pages&rs=srs&b_id=BDDnuPb9RjmrAAAAAAAAAADaXUNafkWjdz-piPvmueXYu_BRbB09yHD8OHEA3_44GQ5usHm-rit8ZkM9AQNxx5r7W-Ue9D1g7w&source_id=2ujoNfzg)
 
 - [Visit a museum virtually](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?fbclid=IwAR1U_YgU5pq2m_67LsUO3c_8FhkkGao3pYeN2tf9wyloIUZTVQXAI7itB6U)
 
@@ -210,7 +210,7 @@ _Meditation_
 
 - [Puppy Cam](https://explore.org/livecams/currently-live/service-puppy-cam)
 
-## **Kids Learning USA:** :usa: 
+## **Kids Learning USA** :us: 
 
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) (Pre K-6th grade)
 
@@ -314,7 +314,7 @@ _Podcasts_
 
 - [New York Times - A Podcast PlayList to Distract You](https://www.nytimes.com/2020/03/22/arts/podcasts-coronavirus.html)
 
-## **Food and Drink**
+## **Food and Drink** :fork_and_knife:
 
 >"Food may not be the answer to world peace, but it’s a start." -Anthony Bourdain 
  
@@ -367,7 +367,7 @@ _Healthy_
 - [CookingLight clean eating recipes](https://www.cookinglight.com/eating-smart/smart-choices/clean-eating-recipes)
 
 
-_Mocktails_ 
+_Mocktails_ :tropical_drink:
 
 - [Seedlip Non Alcholic Spirits](https://seedlipdrinks.com/us/)
 
@@ -375,7 +375,7 @@ _Mocktails_
 
 - [Food and Wine Mocktails](https://www.foodandwine.com/cocktails-spirits/mocktails)
 
-_Cocktails_
+_Cocktails_ :cocktail: 
 
 - [How to stock your home bar - Real Simple](https://www.realsimple.com/holidays-entertaining/entertaining/food-drink/home-bar-essentials-checklist)
 

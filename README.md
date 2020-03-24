@@ -9,7 +9,7 @@ Thanks to @juliametcalf, @Sweekriti91 and Christina Edwards for their contributi
 
 Be well.:bow: 
 
-## **Working from Home Tips:** 
+## **Working from Home Tips** :mega: 
 
 - Trial and error – for a lot of folks this is a new way of working; be kind to yourself while figuring out what works for you. Experiment; and don’t be discouraged if you find yourself having to make adjustments along the way
 
@@ -52,7 +52,7 @@ Be well.:bow:
 
 - [Headspace for Health Professionals](https://www.headspace.com/health-covid-19?fbclid=IwAR0x1pBChifw0113eLrLbTgsGkNhJjsX_qLiJhQsr7Xz0D7dqA1L8QXiDCk) 
 
-## **Supporting the Community:**
+## **Supporting the Community**
 
 _San Francisco:_
  
@@ -112,7 +112,7 @@ _New York City:_
   
   - Boardgames / Cards
 
-## **Fitness** 
+## **Fitness** :muscle: :bike: 
 
   - [Nike training app](https://apps.apple.com/us/app/nike-training-club/id301521403)
   

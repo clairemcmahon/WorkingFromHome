@@ -210,7 +210,7 @@ _Meditation_
 
 - [Puppy Cam](https://explore.org/livecams/currently-live/service-puppy-cam)
 
-## **Kids Learning USA:** :usa: 
+## **Kids Learning USA:** :us: 
 
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) (Pre K-6th grade)
 
@@ -314,7 +314,7 @@ _Podcasts_
 
 - [New York Times - A Podcast PlayList to Distract You](https://www.nytimes.com/2020/03/22/arts/podcasts-coronavirus.html)
 
-## **Food and Drink**
+## **Food and Drink** :fork_and_knife: 
 
 >"Food may not be the answer to world peace, but it’s a start." -Anthony Bourdain 
  
@@ -367,7 +367,7 @@ _Healthy_
 - [CookingLight clean eating recipes](https://www.cookinglight.com/eating-smart/smart-choices/clean-eating-recipes)
 
 
-_Mocktails_ 
+_Mocktails_ :tropical_drink:
 
 - [Seedlip Non Alcholic Spirits](https://seedlipdrinks.com/us/)
 
@@ -375,7 +375,7 @@ _Mocktails_
 
 - (Food and Wine Mocktails)[https://www.foodandwine.com/cocktails-spirits/mocktails]
 
-_Cocktails_
+_Cocktails_ :cocktail:
 
 - [How to stock your home bar - Real Simple](https://www.realsimple.com/holidays-entertaining/entertaining/food-drink/home-bar-essentials-checklist)
 

@@ -388,7 +388,7 @@ _Cocktails_
  
 ## **Entertainment**
 
-_Film_ :film: 
+_Film_ :clapper: 
 
 - $ [Netflix](http://www.netflix.com)
 

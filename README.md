@@ -1,4 +1,4 @@
-#  WorkingFromHome
+#  Working From Home
 For anyone around the world having to adjust to working from home full time and/or sheltering in place
 
 👋COVID-19 has created a disruptive, anxiety-inducing and challenging time for many of us. We wanted to do something small to contribute to folks who are finding themselves homebound for significant lengths of time. Below are some resources to help you pass time, entertain yourself and your kids, learn and cope. 

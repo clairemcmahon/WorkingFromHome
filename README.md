@@ -1,29 +1,31 @@
-#  WorkingFromHome
-For anyone around the world having to adjust to working from home full time and/or sheltering in place
+#  How to work from home :house_with_garden:
+For anyone around the world having to adjust to working from home full time and/or sheltering in place. Take what works for you and leave the rest! 
 
 👋COVID-19 has created a disruptive, anxiety-inducing and challenging time for many of us. We wanted to do something small to contribute to folks who are finding themselves homebound for significant lengths of time. Below are some resources to help you pass time, entertain yourself and your kids, learn and cope. 
  
-We recognize that this is a start and hope the broader community here will contribute. Thanks to @JuliaMetcal, @Sweekriti91 and Christina Edwards for their contrabutions to the below. 
+We recognize that this is a start and hope the broader community here will contribute. Submit a PR!  
 
-Be well.
+Thanks to @juliametcalf, @Sweekriti91 and Christina Edwards for their contributions to the below. 
+
+Be well.:bow: 
 
 ## **Working from Home Tips:** 
 
 - Trial and error – for a lot of folks this is a new way of working; be kind to yourself while figuring out what works for you. Experiment; and don’t be discouraged if you find yourself having to make adjustments along the way
 
-- Setting up a schedule; routine is crucial! 
+- :calendar: Setting up a schedule; routine is crucial! 
 
-- Showering and dressing for the day
+- :shower: Showering and dressing for the day
 
 - Morning / lunchtime / evening walks 
 
-- Short workouts: think planks, 20 push-ups, a few jumping jacks, stretching
+- :muscle: Short workouts: think planks, 20 push-ups, a few jumping jacks, stretching
 
-- For meetings that require more listening vs active participation walk with headphones and take quick notes on your phone
+- :headphones: For meetings that require more listening vs active participation walk with headphones and take quick notes on your phone
 
 - Change up your space throughout the day 
 
-- Caffeine naps - when you're feeling tired, brew a cup of coffee or tea, drink it and take a nap for ~20mins. By the time you wake up the caffeine will have hit and you’ll wake up feeling more refreshed
+- :coffee: Caffeine naps - when you're feeling tired, brew a cup of coffee or tea, drink it and take a nap for ~20mins. By the time you wake up the caffeine will have hit and you’ll wake up feeling more refreshed
  
  
 ## **How to Prepare and Cope** 

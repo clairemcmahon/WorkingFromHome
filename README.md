@@ -78,7 +78,7 @@ _San Francisco:_
    
    - [Bay Area Restaurants Open for Take-Out and Delivery](https://projects.sfchronicle.com/2020/restaurant-delivery/?utm_source=newsletter&utm_medium=email&utm_content=briefing&utm_campaign=sfc_bitecurious&fbclid=IwAR1G9meR7qyIz3KmzbL4cqQ3tq6B9ROuZPzXmmmfTQUwBcrN8uQ_VqprVV8)
 
-_New York City:_
+_New York City:_ 
 
   - [Legacy Records Staff Relief Fund]( https://www.gofundme.com/f/legacy-records-staff-relief-fund)  
   
@@ -170,13 +170,13 @@ _Meditation_
 
 ## **Kids Activities:**
 
-- Write letters - have kids write to their future selves, friends etc on a daily basis. Put them in a "time capsule" and save for a later date.
+- :memo: Write letters - have kids write to their future selves, friends etc on a daily basis. Put them in a "time capsule" and save for a later date.
 
 - Write encouraging messages or greetings to other families in your neighborhood on the sidewalk with chalk
 
 - Build a fort
 
-- [Coloring sheets](https://www.pinterest.com/search/pins/?q=Printable%20coloring%20pages&rs=srs&b_id=BDDnuPb9RjmrAAAAAAAAAADaXUNafkWjdz-piPvmueXYu_BRbB09yHD8OHEA3_44GQ5usHm-rit8ZkM9AQNxx5r7W-Ue9D1g7w&source_id=2ujoNfzg)
+- :art: [Coloring sheets](https://www.pinterest.com/search/pins/?q=Printable%20coloring%20pages&rs=srs&b_id=BDDnuPb9RjmrAAAAAAAAAADaXUNafkWjdz-piPvmueXYu_BRbB09yHD8OHEA3_44GQ5usHm-rit8ZkM9AQNxx5r7W-Ue9D1g7w&source_id=2ujoNfzg)
 
 - [Visit a museum virtually](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?fbclid=IwAR1U_YgU5pq2m_67LsUO3c_8FhkkGao3pYeN2tf9wyloIUZTVQXAI7itB6U)
 
@@ -210,7 +210,7 @@ _Meditation_
 
 - [Puppy Cam](https://explore.org/livecams/currently-live/service-puppy-cam)
 
-## **Kids Learning USA:**
+## **Kids Learning USA:** :usa: 
 
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) (Pre K-6th grade)
 
@@ -234,7 +234,7 @@ _Special needs:_
 
 - [Special Needs Tutoring](https://www.specialedtutoring.com/)
 
-## **Kids Educational Resources - UK**
+## **Kids Educational Resources - UK** :uk: 
 
 - [Twinkl](https://www.twinkl.com/) - The trusted home of teacher-created planning and assessment materials and teaching resources
 
@@ -248,7 +248,7 @@ _Special needs:_
 
 - $ [Online school UK](https://elt.oup.com/student/oupeprimary/?cc=gb&selLanguage=en) - Primary & Secondary online school
 
-## **Kids Activities- UK**
+## **Kids Activities- UK** :uk: 
 
 - [20+ Cute and Easy Origami for Kids](https://www.easypeasyandfun.com/easy-origami-for-kids/) - Origami for kids projects
 
@@ -276,7 +276,7 @@ _Classes_
 
 - [15 of the Best Online Writing Communities](https://blog.reedsy.com/writing-community/)
 
-_Reading_
+_Reading_ :book: 
 
 - [Bookshop - supporting indie booksellers](https://bookshop.org/pages/about)
 
@@ -388,7 +388,7 @@ _Cocktails_
  
 ## **Entertainment**
 
-_Film_
+_Film_ :film: 
 
 - $ [Netflix](http://www.netflix.com)
 

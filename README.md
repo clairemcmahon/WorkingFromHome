@@ -210,7 +210,7 @@ _Meditation_
 
 - [Puppy Cam](https://explore.org/livecams/currently-live/service-puppy-cam)
 
-## **Kids Learning USA:** :us: 
+## **Kids Learning USA:** :usa: 
 
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) (Pre K-6th grade)
 
@@ -284,7 +284,7 @@ _Reading_ :book:
 
 - [NYT Bestseller List](https://www.nytimes.com/books/best-sellers/)
 
-- [Comprehensive List of Oprah’s Book Club Selections]( https://www.barnesandnoble.com/b/books/book-club-selections/oprahs-book-club/_/N-29Z8q8Z1qld)
+- [Comprehensive List of Oprah’s Book Club Selections](https://www.barnesandnoble.com/b/books/book-club-selections/oprahs-book-club/_/N-29Z8q8Z1qld)
 
 - [Forbes 2019 Bestsellers](https://www.forbes.com/sites/rhettpower/2019/08/10/7-bestselling-books-of-2019-that-belong-in-your-briefcase/#6089e1dd2c73)
 
@@ -314,7 +314,7 @@ _Podcasts_
 
 - [New York Times - A Podcast PlayList to Distract You](https://www.nytimes.com/2020/03/22/arts/podcasts-coronavirus.html)
 
-## **Food and Drink** :fork_and_knife: 
+## **Food and Drink**
 
 >"Food may not be the answer to world peace, but it’s a start." -Anthony Bourdain 
  
@@ -338,7 +338,7 @@ _Podcasts_
 
 _Comfort_ 
 
-- [66 Best Comfort Foods from Around the World]( https://www.tasteofhome.com/collection/best-comfort-food-around-the-world/)
+- [66 Best Comfort Foods from Around the World](https://www.tasteofhome.com/collection/best-comfort-food-around-the-world/)
 
 - [5 Comfort Food Recipes To Make Your Day Better](https://www.youtube.com/watch?v=y6Mf_d5lSSA)
 
@@ -367,15 +367,15 @@ _Healthy_
 - [CookingLight clean eating recipes](https://www.cookinglight.com/eating-smart/smart-choices/clean-eating-recipes)
 
 
-_Mocktails_ :tropical_drink:
+_Mocktails_ 
 
 - [Seedlip Non Alcholic Spirits](https://seedlipdrinks.com/us/)
 
 - [Town and Country Non Alchoholic Drink Recipes](https://www.townandcountrymag.com/leisure/drinks/how-to/g785/best-mocktail-recipes/) 
 
-- (Food and Wine Mocktails)[https://www.foodandwine.com/cocktails-spirits/mocktails]
+- [Food and Wine Mocktails](https://www.foodandwine.com/cocktails-spirits/mocktails)
 
-_Cocktails_ :cocktail:
+_Cocktails_
 
 - [How to stock your home bar - Real Simple](https://www.realsimple.com/holidays-entertaining/entertaining/food-drink/home-bar-essentials-checklist)
 
